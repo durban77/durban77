@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @durban77!
-- 👀 I’m interested in Arduino projects.
-- 🌱 I’m currently learning to fly.
+- 👀 I’m interested in Arduino and mobile application projects.
+- 📻 I’m currently really into ham radio, escpecially shortwave.
 - 💞️ I’m looking to collaborate on making this world a better place!
 - 📫 How to reach me, it's so easy...
 
